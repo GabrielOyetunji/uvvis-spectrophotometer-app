@@ -40,4 +40,5 @@ An interactive tool where users can:
 
 ### 🖥️ Running the Streamlit App
 ```bash
-streamlit run uvvis_app.py
+🌐 [Launch the App](https://uvvis-app-nsglt4gukbq3vntcwwpknb.streamlit.app/)
+
